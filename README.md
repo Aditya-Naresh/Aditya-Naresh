@@ -30,7 +30,7 @@ Ping me on LinkedIn
 <br/>
 <p align="left">
   <a href="">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Aditya-Naresh&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Aditya-Naresh&show_icons=true&theme=highcontrast&hide_border=true" />
     <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=Aditya-Naresh&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
