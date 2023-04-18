@@ -38,6 +38,5 @@ Ping me on LinkedIn
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Naresh)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Naresh&layout=compact&theme=highcontrast)](https://github.com/Aditya-Naresh/github-readme-stats)
 
