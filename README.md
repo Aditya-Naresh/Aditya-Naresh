@@ -38,4 +38,5 @@ Ping me on LinkedIn
 
 
 
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-Naresh&show_icons=true&theme=radical)
 
