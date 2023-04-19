@@ -8,9 +8,6 @@ Ping me on LinkedIn
 
 <br>
 
-[codemonke](https://user-images.githubusercontent.com/64772267/233015722-943df548-2ecf-4333-859e-667a09104fd1.png?raw=true)
-
-
 <p>
 <div align="center">
    <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
