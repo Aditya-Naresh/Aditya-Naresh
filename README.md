@@ -8,7 +8,7 @@ Ping me on LinkedIn
 
 <br>
 
-[image](https://user-images.githubusercontent.com/64772267/233015722-943df548-2ecf-4333-859e-667a09104fd1.png)
+[](https://user-images.githubusercontent.com/64772267/233015722-943df548-2ecf-4333-859e-667a09104fd1.png)
 
 
 <p>
