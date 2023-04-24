@@ -2,7 +2,7 @@
   <b>Aditya Naresh</b>
 </h1>
 
-Heya! I'm Aditya! An Aspiring Web Developer, a Focused Code Writer , Chess enjoyer and a Calisthenics lover. I love to solve problems on Leetcode , occasionally enjoy playing chess and love learning about tech in general.
+Heya! I'm Aditya! An Aspiring Developer, a Focused Code Writer , Chess enjoyer and a Calisthenics lover. I love to solve problems on Leetcode , occasionally enjoy playing chess and love learning about tech in general.
 Ping me on LinkedIn
 
 
