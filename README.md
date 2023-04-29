@@ -17,6 +17,7 @@ Ping me on LinkedIn
    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express.js&logoColor=d1a01f&labelColor=282828">
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282828">
    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src ="https://img.shields.io/badge/Python-3.11-green.svg?label=Python&message=3.11&color=3776AB&style=for-the-badge&logo=python&logoColor=blue">
 </div>
 </p>
 
