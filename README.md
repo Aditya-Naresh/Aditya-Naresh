@@ -1,5 +1,6 @@
+<div align="center">
 <a href="https://app.daily.dev/adityanaresh"><img src="https://api.daily.dev/devcards/v2/HqZfRIJ5XlBZ63CxAtwOx.png?r=p4s&type=wide" width="652" alt="Aditya Naresh's Dev Card"/></a>
-
+</div>
 
 Heya! I'm Aditya Naresh! An Aspiring Developer, a Chess enjoyer and a Calisthenics lover. I love to solve problems on Leetcode , occasionally enjoy playing chess and love learning about tech in general.
 Ping me on LinkedIn
