@@ -34,4 +34,4 @@ Ping me on LinkedIn
 
 
 
-![Leetcode Stats](https://leetcard.aditya-naresh/lapor?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Aditya-Naresh)
