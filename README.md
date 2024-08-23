@@ -28,6 +28,10 @@ Ping me on LinkedIn
     <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=Aditya-Naresh&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </p>
-<br>
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Naresh&layout=compact&theme=highcontrast)](https://github.com/Aditya-Naresh/github-readme-stats)
+
+
+
+![Leetcode Stats](https://leetcard.aditya-naresh/lapor?ext=heatmap)
