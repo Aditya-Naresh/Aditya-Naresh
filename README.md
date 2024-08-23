@@ -7,6 +7,8 @@
 Heya! I'm Aditya Naresh! An Aspiring Developer, a Chess enjoyer and a Calisthenics lover. I love to solve problems on Leetcode , occasionally enjoy playing chess and love learning about tech in general.
 Ping me on LinkedIn
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Aditya-Naresh)
+
 <br>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 10px;">
@@ -34,4 +36,4 @@ Ping me on LinkedIn
 
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Aditya-Naresh)
+
