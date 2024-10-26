@@ -1,12 +1,18 @@
-<div align="center">
   
+Hello, I’m Aditya Naresh—a passionate developer with a knack for solving problems on LeetCode. In my downtime, I enjoy playing chess and practicing calisthenics. I have a genuine curiosity for technology and love building software solutions that drive meaningful change.
+
+Let’s connect on:
+<div>
+<a href="www.linkedin.com/in/aditya-naresh" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 </div>
 
-Heya! I'm Aditya Naresh! An Aspiring Developer, a Chess enjoyer and a Calisthenics lover. I love to solve problems on Leetcode , occasionally enjoy playing chess and love learning about tech in general and build software solutions.
-Ping me on LinkedIn
+<div align="center">
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Aditya-Naresh)
 
+</div>
 <br>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 10px;">
