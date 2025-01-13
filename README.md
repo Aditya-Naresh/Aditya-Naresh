@@ -34,7 +34,6 @@ I'm a passionate developer focused on creating efficient and scalable software s
   <!-- Tools & Others -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
 </p>
 
 ### 🛠️ Technical Stack
@@ -67,23 +66,15 @@ I'm a passionate developer focused on creating efficient and scalable software s
 </div>
 </details>
 
-### 📊 Leetcode Profile
-<div align="center">
-  <a href="https://leetcode.com/Aditya-Naresh" target="_blank">
-    <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/Aditya-Naresh?theme=dark&font=Roboto" />
-  </a>
-</div>
-
 ### 📈 GitHub Analytics
 <p align="center">
   <a href="https://github.com/Aditya-Naresh">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aditya-Naresh&show_icons=true&theme=highcontrast&hide_border=true" alt="Aditya's GitHub Stats"/>
-    <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=Aditya-Naresh&theme=highcontrast&hide_border=true" alt="Aditya's Streak Stats"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aditya-Naresh&show_icons=true&theme=transparent&hide_border=false" alt="Aditya's GitHub Stats"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Aditya-Naresh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Naresh&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Naresh&layout=compact&theme=transparent&hide_border=false" alt="Top Languages"/>
   </a>
 </p>
 
